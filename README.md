@@ -5,13 +5,13 @@
     系统设置，屏幕显示，关闭之前的屏幕，只显示最新的屏幕
 3.添加搜狗输入法
 
-        ``` chmod +x sousogoupinyin_2.2.0.0108_amd64.deb  ```
+        ``` chmod +x sousogoupinyin_2.2.0.0108_amd64.deb
         
-        ``` sudo dpkg -i sogoupinyin_2.2.0.0108_amd64.deb ```
+        sudo dpkg -i sogoupinyin_2.2.0.0108_amd64.deb
         
-        ``` sudo apt-get -f install ```
+        sudo apt-get -f install
         
-        ``` sudo dpkg -i sogoupinyin_2.2.0.0108_amd64.deb ```
+        sudo dpkg -i sogoupinyin_2.2.0.0108_amd64.deb ```
         
 4.安装谷歌浏览器
 
